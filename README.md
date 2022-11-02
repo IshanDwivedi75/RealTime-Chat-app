@@ -13,7 +13,7 @@ Join/Sign Up Page
 ![Join](https://github.com/IshanDwivedi75/RealTime-Chat-app/blob/main/Images/Screen%20Shot%202022-11-02%20at%204.28.24%20PM.png)
 
 Auto Scroll down on spamming of messages
-![Main](https://github.com/Shubhobroto/Real-Time-Chat-App/blob/master/Readme/chatapp2.jpg)
+![Main](https://github.com/IshanDwivedi75/RealTime-Chat-app/blob/main/Images/Screen%20Shot%202022-11-02%20at%204.28.32%20PM.png)
 
 
 ## Local Setup & Available Scripts
